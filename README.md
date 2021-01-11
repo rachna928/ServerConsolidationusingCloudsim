@@ -1,3 +1,7 @@
+Algorithm for Efficient Reduction in Data Centre Energy Consumption by Server Consolidation:
+
+This project has been completed in the partial fulfillment of the Master's of Science Degree in Cloud Computing from National College of Ireland. This project has been coded on CloudSim 3.0.3 which focuses on reducing the energy consumption of the data centres buy consolidating the hosts.
+
 The rising demand for cloud based applications in recent years and energy consumption by data centres is a concern. This increased demand for energy consumption results in the high rate of carbon emissions on the environment. Many times ineffcient use of resources is the reason for this increased demand for electricity.
 To overcome the problem of inefficient resource utilisation and to reduce the energy consumption server consolidation is one solution. Server consolidation is a process in
 which the number of active hosts is reduced by turning them into sleep mode which will reduce energy consumption. During Server consolidation algorithms like linear
